@@ -1,34 +1,79 @@
-<h1 align="center">Olá 👋, me chamo Willian Diniz</h1>
-<h3 align="center">Sou um desenvolvedor back end apaixonado pelo que faço.</h3>
+# Olá! Eu sou o Willian Diniz 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sbewill&label=Profile%20views&color=0e75b6&style=flat" alt="sbewill" /> </p>
+## 💻 Desenvolvedor Backend em Formação
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbewill" alt="sbewill" /></a> </p>
+Estou em transição de carreira para a área de desenvolvimento, com foco em **Backend Java** e construção de APIs REST robustas e escaláveis. Atualmente, estou consolidando conhecimentos através de projetos práticos e buscando minha primeira oportunidade profissional na área.
 
-<p align="left"> <a href="https://twitter.com/willdiniz07" target="blank"><img src="https://img.shields.io/twitter/follow/willdiniz07?logo=twitter&style=for-the-badge" alt="willdiniz07" /></a> </p>
+---
 
-- 🔭 Estou trabalhando no desenvolvimento de: [Sistema que converte moedas via API rest](https://github.com/SBEWill/projeto-conversor-de-moedas)
+## 🚀 Tecnologias & Ferramentas
 
-- 🌱 Estou aprendo **Spring boot, Cloud AWS, Oracle cloud**
+**Backend:**
+- Java | Spring Boot
+- API REST
+- PostgreSQL | Oracle Cloud
 
-- 🔭 Desenvolvendo [Sistema de controle de biblioteca](https://github.com/SBEWill/sistema-de-cadastro-biblioteca-simples-java)
+**Cloud & DevOps:**
+- AWS Cloud
+- Git & GitHub
 
-- 👨‍💻todos meus projetos estão aqui: [https://github.com/SBEWill?tab=repositories](https://github.com/SBEWill?tab=repositories)
+**Frontend (Conhecimentos Básicos):**
+- HTML | CSS | JavaScript
 
-- 📫 Vamos conversar **williandiniz2412@hotmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/willdiniz07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="willdiniz07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/willian-diniz-2360b74b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/willian-diniz-2360b74b/" height="30" width="40" /></a>
-<a href="https://discord.gg/will3830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="will3830" height="30" width="40" /></a>
-</p>
+## 🎯 Projetos em Destaque
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### 🔄 [Conversor de Moedas](https://github.com/SBEWill/conversor-moedas)
+Aplicação CLI em Java que realiza conversões entre moedas utilizando API externa para taxas de câmbio em tempo real.
+- **Diferenciais:** Histórico persistente em JSON, sistema de logs, tratamento robusto de exceções
+- **Conceitos aplicados:** POO, manipulação de arquivos, consumo de APIs HTTP, Collections
+- **Desafio:** Programa ONE (Oracle + Alura)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbewill&show_icons=true&locale=en&layout=compact" alt="sbewill" /></p>
+### 📚 [Sistema de Biblioteca](https://github.com/SBEWill/sistema-biblioteca)
+Simulador de operações de biblioteca via console, focado em arquitetura orientada a objetos.
+- **Funcionalidades:** Gerenciamento de empréstimos e devoluções, controle de disponibilidade
+- **Conceitos aplicados:** POO (Encapsulamento, Herança, Polimorfismo), Design Patterns
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sbewill&show_icons=true&locale=en" alt="sbewill" /></p>
+### 📍 [Consulta CEP - ViaCEP](https://github.com/SBEWill/consulta-cep-viacep)
+Sistema CLI para consulta de endereços via API ViaCEP com arquitetura em camadas.
+- **Destaques:** Validação rigorosa de entrada, persistência em JSON, serialização/deserialização com Gson
+- **Conceitos aplicados:** Arquitetura em camadas, HttpClient, tratamento de erros, separação de responsabilidades
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbewill&" alt="sbewill" /></p>
+---
+
+## 🎓 Formação & Aprendizado
+
+- **Cursando:** API REST com Java
+- **Programa ONE:** Oracle Next Education (Alura)
+- Constantemente estudando boas práticas, design patterns e arquitetura de software
+
+---
+
+## 🌱 Objetivos Atuais
+
+- 🔍 Buscar minha primeira oportunidade como Desenvolvedor Backend
+- 🤝 Construir networking com outros desenvolvedores
+- 🌐 Contribuir em projetos open source
+- 📈 Expandir conhecimentos em arquitetura de microsserviços e cloud computing
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-diniz-2360b74b/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SBEWill)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williandiniz2412@hotmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WillDiniz07)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) - will3830
+
+---
+
+## 📊 GitHub Stats
+
+![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBEWill&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBEWill&layout=compact&theme=dracula)
+
+---
+
+💡 *"Código limpo não é escrito seguindo regras. Você não se torna um artesão de software ao aprender uma lista do que fazer e não fazer. Profissionalismo e artesanato vêm de valores que direcionam disciplinas."* - Robert C. Martin
