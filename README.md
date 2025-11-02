@@ -30,12 +30,12 @@ Aplicação CLI em Java que realiza conversões entre moedas utilizando API exte
 - **Conceitos aplicados:** POO, manipulação de arquivos, consumo de APIs HTTP, Collections
 - **Desafio:** Programa ONE (Oracle + Alura)
 
-### 📚 [Sistema de Biblioteca](https://github.com/SBEWill/sistema-biblioteca)
+### 📚 [Sistema de Biblioteca](https://github.com/SBEWill/sistema-de-cadastro-biblioteca-simples-java)
 Simulador de operações de biblioteca via console, focado em arquitetura orientada a objetos.
 - **Funcionalidades:** Gerenciamento de empréstimos e devoluções, controle de disponibilidade
 - **Conceitos aplicados:** POO (Encapsulamento, Herança, Polimorfismo), Design Patterns
 
-### 📍 [Consulta CEP - ViaCEP](https://github.com/SBEWill/consulta-cep-viacep)
+### 📍 [Consulta CEP - ViaCEP](https://github.com/SBEWill/consumo-de-api-java)
 Sistema CLI para consulta de endereços via API ViaCEP com arquitetura em camadas.
 - **Destaques:** Validação rigorosa de entrada, persistência em JSON, serialização/deserialização com Gson
 - **Conceitos aplicados:** Arquitetura em camadas, HttpClient, tratamento de erros, separação de responsabilidades
@@ -44,7 +44,7 @@ Sistema CLI para consulta de endereços via API ViaCEP com arquitetura em camada
 
 ## 🎓 Formação & Aprendizado
 
-- **Cursando:** API REST com Java
+- **Cursando:** SPRING BOOT - AWS CLOUD
 - **Programa ONE:** Oracle Next Education (Alura)
 - Constantemente estudando boas práticas, design patterns e arquitetura de software
 
@@ -65,7 +65,7 @@ Sistema CLI para consulta de endereços via API ViaCEP com arquitetura em camada
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SBEWill)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williandiniz2412@hotmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WillDiniz07)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) - will3830
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/will3830)
 
 ---
 
