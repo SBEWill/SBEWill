@@ -31,7 +31,7 @@ Estou em transição de carreira para a área de desenvolvimento, com foco em **
 
 ## 🎯 Projetos em Destaque
 
-### 🔄 [Conversor de Moedas](https://github.com/SBEWill/conversor-moedas)
+### 🔄 [Conversor de Moedas](https://github.com/SBEWill/projeto-conversor-de-moedas)
 Aplicação CLI em Java que realiza conversões entre moedas utilizando API externa para taxas de câmbio em tempo real.
 - **Diferenciais:** Histórico persistente em JSON, sistema de logs, tratamento robusto de exceções
 - **Conceitos aplicados:** POO, manipulação de arquivos, consumo de APIs HTTP, Collections
